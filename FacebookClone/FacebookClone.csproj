@@ -179,6 +179,11 @@
     </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\pics\ajax-loaderblack.gif" />
+    <Content Include="Content\pics\ajax-loaderwhite.gif" />
+    <Content Include="Content\pics\jack.jpg" />
+    <Content Include="Content\pics\john.jpg" />
+    <Content Include="Content\pics\Vojislav Kovacevic.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
